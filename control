@@ -1,6 +1,6 @@
 Package: me.playcover.genshinjailbreakbypass
 Name: Genshin Jailbreak Bypass
-Depends: mobilesubstrate, firmware (<< 15.2)
+Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
 Description: Bypass "Data error, please login again" message
